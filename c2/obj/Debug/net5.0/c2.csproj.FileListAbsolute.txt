@@ -1,0 +1,16 @@
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.exe
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.deps.json
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.runtimeconfig.json
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.runtimeconfig.dev.json
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.dll
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\ref\c2.dll
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\bin\Debug\net5.0\c2.pdb
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.csproj.AssemblyReference.cache
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.GeneratedMSBuildEditorConfig.editorconfig
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.AssemblyInfoInputs.cache
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.AssemblyInfo.cs
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.csproj.CoreCompileInputs.cache
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.dll
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\ref\c2.dll
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.pdb
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c2\obj\Debug\net5.0\c2.genruntimeconfig.cache
