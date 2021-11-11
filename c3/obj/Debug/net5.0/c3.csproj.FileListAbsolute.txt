@@ -1,0 +1,5 @@
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c3\obj\Debug\net5.0\c3.csproj.AssemblyReference.cache
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c3\obj\Debug\net5.0\c3.GeneratedMSBuildEditorConfig.editorconfig
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c3\obj\Debug\net5.0\c3.AssemblyInfoInputs.cache
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c3\obj\Debug\net5.0\c3.AssemblyInfo.cs
+D:\mathe\Arquivos\Novo(HD)\Desk\vsFiles\estudosDotnet\consoleApp\c3\obj\Debug\net5.0\c3.csproj.CoreCompileInputs.cache
